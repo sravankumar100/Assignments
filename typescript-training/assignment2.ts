@@ -40,7 +40,7 @@ let year:number=2023;
 console.log("Currentyear:" +year);
 
 // 11.Number of followers on a social media platform: 1,000,000
-let socialmediaFollowers:number=1000000;
+let socialmediaFollowers:String="1,000,000";
 console.log("Number of followers on a social media platform::" +socialmediaFollowers);
 
 // 12.Rating of a movie: 7.5
