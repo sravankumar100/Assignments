@@ -12,4 +12,4 @@ else{
     console.log("loan is denied for:" +customerName);
 }
 }
-loanEligibility("John Doe",720,4 5000,true,35000);
+loanEligibility("John Doe",720,4 ,55000,true,35000);
